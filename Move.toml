@@ -10,6 +10,6 @@ casino="0xe7b04cd4c81e3b13916e4f89dd017bfc372c63bc0f2393f0e1423f606a18de1c"
 [dependencies.AptosFramework]
 git = "https://github.com/aptos-labs/aptos-framework.git"
 rev = "mainnet"
-subdir = "aptos-framework"
+subdir = "aptos-framework" 
 
 [dev-dependencies]
