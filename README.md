@@ -25,6 +25,6 @@ The **future** of this project extends far beyond basic verification. We envisio
 
 This smart contract is deployed on the **Aptos blockchain**, ensuring secure and decentralized verification of lab reports.
 
+<img width="918" alt="ss rise in" src="https://github.com/user-attachments/assets/e79a4221-282e-4a84-9ece-39486c576045" />
 
 
-<img width="918" alt="ss rise in" src="https://github.com/user-attachments/assets/f90da568-2b7e-406e-9e41-c16bd947d9db" />
