@@ -1,30 +1,26 @@
-# 🎓 **Science Lab Report Verification**
+# 🎰 Casino App on Aptos Blockchain
 
-## 📌 **_Description_**
-Science Lab Report Verification is a **blockchain-based** solution designed to ensure the _authenticity_ and _integrity_ of lab reports. By leveraging **decentralized technology**, the system prevents unauthorized modifications and enhances trust in academic certifications.
+## 📜 Description
+Welcome to the **Casino App**, a decentralized gaming platform built on the **Aptos Blockchain**. This project leverages **Move** for secure and efficient smart contract execution, ensuring a transparent and trustless gaming experience.
 
-## 🎯 **_Vision of the Project_**
-In an era where **academic integrity** is paramount, our vision is to **revolutionize** the way lab reports are verified and authenticated. This project aims to:
+![Casino GIF](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
 
-- 🛡️ **_Eliminate Academic Fraud:_** Blockchain ensures that once a lab report is stored, it remains _immutable_ and **cannot be tampered with**.
-- ✅ **_Enhance Trust & Credibility:_** Institutions, employers, and students can rely on a **transparent** system that guarantees the authenticity of lab reports.
-- 🎓 **_Empower Students with Digital Ownership:_** Students can securely **store** and **share** their verified lab reports without dependency on centralized authorities.
-- 🌎 **_Global Standardization:_** Create a universally **accepted** and **secure verification system** that educational institutions worldwide can adopt.
+## 🎯 Vision
+Our goal is to revolutionize online gambling by providing a **fair, secure, and decentralized** platform. By utilizing blockchain technology, we ensure provable fairness, secure transactions, and complete transparency.
 
-## 🚀 **_Future Scope_**
-The **future** of this project extends far beyond basic verification. We envision a **comprehensive system** that transforms the **education sector** with the following innovations:
+## 🔮 Future Scope
+🚀 **Multi-Currency Support:** Allow players to use different cryptocurrencies.
 
-- 🏛️ **Institutional Integration:** Collaborating with **universities** and **research institutions** for seamless, automatic verification of lab reports.
-- 🔑 **Role-Based Verification Access:** Introducing an **admin-based verification** system where only **authorized personnel** can validate reports.
-- 🎟️ **NFT-Based Certification:** Assigning **unique, non-fungible tokens (NFTs)** to verified lab reports, ensuring **lifelong authenticity and ownership**.
-- 🌍 **Cross-Border Academic Recognition:** Developing a system where students can use their **blockchain-verified lab reports** globally for admissions, research grants, and job applications.
-- 📊 **User-Friendly Dashboard & Analytics:** Implementing a **dashboard** where students, institutions, and employers can **track** and **manage** lab report verification in real-time.
+🎲 **More Games:** Expand the platform with additional casino games like Poker, Roulette, and Blackjack.
+
+📱 **Mobile Compatibility:** Develop a mobile-friendly version for seamless gaming on the go.
+
+🛡 **Enhanced Security:** Implement AI-based fraud detection for a safer gaming experience.
+
+🌍 **Global Adoption:** Expand the platform’s reach with multi-language support and worldwide accessibility.
 
 ## 🔗 Contract Details
-**Contract Address:** `0x404af71a5960e1453bfad092b446cd959990968a5e2558e85ceff9ec7e74fdbd`
+- **Contract Address:** `0x71e84de4eac3f6a824f9aaaec193c0cedb1e34c1a576270c31bf42583387b087`
 
-This smart contract is deployed on the **Aptos blockchain**, ensuring secure and decentralized verification of lab reports.
-
-<img width="918" alt="ss rise in" src="https://github.com/user-attachments/assets/e79a4221-282e-4a84-9ece-39486c576045" />
-
+<img width="947" alt="full stack project aptos ss" src="https://github.com/user-attachments/assets/d68f637d-5c9e-4d9f-86ac-1ec9722bb287" />
 
