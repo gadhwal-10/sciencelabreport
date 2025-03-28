@@ -1,12 +1,12 @@
 [package]
-name = "no"
+name = "casino-app"
 version = "1.0.0"
 authors = []
 
 [addresses]
-ScienceLab="0xc53cc6be1b60292a2ad8d7e34dae77347842b19a808e383c8bdaacd5f98c0989"
-[dev-addresses]
 
+[dev-addresses]
+casino="0xe7b04cd4c81e3b13916e4f89dd017bfc372c63bc0f2393f0e1423f606a18de1c"
 [dependencies.AptosFramework]
 git = "https://github.com/aptos-labs/aptos-framework.git"
 rev = "mainnet"
