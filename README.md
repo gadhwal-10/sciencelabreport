@@ -22,6 +22,6 @@ Our goal is to revolutionize online gambling by providing a **fair, secure, and 
 ## 🔗 Contract Details
 - **Contract Address:** `0x71e84de4eac3f6a824f9aaaec193c0cedb1e34c1a576270c31bf42583387b087`
 
-<img width="947" alt="full stack project aptos ss" src="https://github.com/user-attachments/assets/d144d0ee-3c1b-4b06-9d1d-1da5290472ce" />
+<img width="947" alt="full stack project aptos ss" src="https://github.com/user-attachments/assets/af9e4224-1aed-42c5-a62c-69ed96b351fa" />
 
 
